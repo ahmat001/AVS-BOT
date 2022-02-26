@@ -1,2 +1,0 @@
-# AVS-BOT
-AVS bot 
